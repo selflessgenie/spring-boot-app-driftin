@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootJwtAuthenticationExamplesApplication {
 
 	public static void main(String[] args) {
+		System.setProperty("java.runtime.version","11");
 		SpringApplication.run(SpringBootJwtAuthenticationExamplesApplication.class, args);
 	}
 
