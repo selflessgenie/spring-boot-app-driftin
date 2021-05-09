@@ -2,6 +2,7 @@ P:\loizenai\jwt-springboot-reactjs-token-authentication\src\main\java\com\loizen
 P:\loizenai\jwt-springboot-reactjs-token-authentication\src\main\java\com\loizenai\jwtauthentication\security\jwt\JwtAuthTokenFilter.java
 P:\loizenai\jwt-springboot-reactjs-token-authentication\src\main\java\com\loizenai\jwtauthentication\security\jwt\JwtProvider.java
 P:\loizenai\jwt-springboot-reactjs-token-authentication\src\main\java\com\loizenai\jwtauthentication\model\User.java
+P:\loizenai\jwt-springboot-reactjs-token-authentication\src\main\java\com\loizenai\jwtauthentication\repository\projections\QuizQuery.java
 P:\loizenai\jwt-springboot-reactjs-token-authentication\src\main\java\com\loizenai\jwtauthentication\message\request\SignUpForm.java
 P:\loizenai\jwt-springboot-reactjs-token-authentication\src\main\java\com\loizenai\jwtauthentication\message\response\JwtResponse.java
 P:\loizenai\jwt-springboot-reactjs-token-authentication\src\main\java\com\loizenai\jwtauthentication\model\Quiz.java
@@ -14,6 +15,7 @@ P:\loizenai\jwt-springboot-reactjs-token-authentication\src\main\java\com\loizen
 P:\loizenai\jwt-springboot-reactjs-token-authentication\src\main\java\com\loizenai\jwtauthentication\security\services\UserDetailsServiceImpl.java
 P:\loizenai\jwt-springboot-reactjs-token-authentication\src\main\java\com\loizenai\jwtauthentication\repository\ModuleRepository.java
 P:\loizenai\jwt-springboot-reactjs-token-authentication\src\main\java\com\loizenai\jwtauthentication\controller\AuthRestAPIs.java
+P:\loizenai\jwt-springboot-reactjs-token-authentication\src\main\java\com\loizenai\jwtauthentication\repository\projections\QuizQueryProjection.java
 P:\loizenai\jwt-springboot-reactjs-token-authentication\src\main\java\com\loizenai\jwtauthentication\security\jwt\JwtAuthEntryPoint.java
 P:\loizenai\jwt-springboot-reactjs-token-authentication\src\main\java\com\loizenai\jwtauthentication\message\response\ResponseMessage.java
 P:\loizenai\jwt-springboot-reactjs-token-authentication\src\main\java\com\loizenai\jwtauthentication\SpringBootJwtAuthenticationExamplesApplication.java
