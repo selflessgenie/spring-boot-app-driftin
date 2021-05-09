@@ -50,6 +50,12 @@ public class AuthRestAPIs {
 
 	@Autowired
 	JwtProvider jwtProvider;
+	
+	@PostMapping("/role")
+	public ResponseEntity<?> addRole(@Valid @RequestBody Role role) {
+		Role roleResponse = roleRepository.save(role);
+		return ResponseEntity.ok(roleResponse);
+	}
 
 	@PostMapping("/signin")
 	public ResponseEntity<?> authenticateUser(@Valid @RequestBody LoginForm loginRequest) {
